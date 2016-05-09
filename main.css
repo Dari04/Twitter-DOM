@@ -1,0 +1,16 @@
+#inputBox {
+	width: 300px;
+	height: 100px;
+}
+
+#tweets {
+	margin-top: 40px;
+}
+
+.tweet{
+	box-sizing: border-box;
+	padding: 10px;
+	width: 300px;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+}
